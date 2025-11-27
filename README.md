@@ -1,10 +1,7 @@
 # PROJECT: SCP SCRIPT
-
----------
 # SPINLORIUS
----------
 
-# FUNCTIONAL
+# FUNCTIONAL:
 
 ---------
 Combat:
@@ -42,8 +39,10 @@ ArrayList,
 Nearest Players.
 ---------
 
-# BINDS
+# BINDS:
 
 ---------
 Invisible - I
+LiftFly - X
+ClickGui - Insert
 ---------
