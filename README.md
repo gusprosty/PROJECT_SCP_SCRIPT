@@ -1,4 +1,9 @@
-# PROJECT_SCP_SCRIPT
+# PROJECT: SCP SCRIPT
+
+---------
+# SPINLORIUS
+---------
+
 # FUNCTIONAL
 
 ---------
